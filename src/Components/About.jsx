@@ -24,7 +24,7 @@ export default function About() {
       <div className="row text-center">
         <div className="col-md-4">
           <i className="bi bi-type h1 text-success"></i>
-          <h4 className="mt-3">Text Transformation Very fast</h4>
+          <h4 className="mt-3">Text Transformation</h4>
           <p>Convert text to UPPERCASE, lowercase, sentence case, or even capitalize each word with just a click.</p>
         </div>
 
